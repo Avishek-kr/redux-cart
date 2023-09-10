@@ -1,0 +1,16 @@
+.recommended-flex {
+  display: flex;
+  margin-left: 16rem;
+}
+
+.recommended-title {
+  margin-left: 16rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+button.btns.active {
+  background: rgba(255, 255, 255, 0.16);
+  color: rgba(255, 255, 255, 0.7);
+}

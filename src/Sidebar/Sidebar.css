@@ -1,0 +1,20 @@
+.sidebar {
+  width: 10%;
+  position: fixed;
+  height: 100%;
+  border-right: 2px solid #e5e5e5;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 2rem;
+}
+
+.logo-container {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.logo-container h1 {
+  margin-top: 1.3rem;
+}
